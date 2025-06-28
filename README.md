@@ -42,7 +42,7 @@ Engineering student at ESEO – passionate about tech and eager to learn.
 
 ## 🔗 Project Link
 
-👉 [Play the game on Scratch](https://scratch.mit.edu/projects/YOUR_PROJECT_ID_HERE)
+👉 [Play the game on Scratch]((https://scratch.mit.edu/projects/1193073283)
 
 
 
